@@ -1,0 +1,6 @@
+# Install additional dependencies
+pip install transformers
+pip install einops
+pip install xformers
+pip install accelerate
+pip install bitsandbytes
