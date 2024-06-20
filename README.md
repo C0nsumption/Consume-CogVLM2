@@ -1,3 +1,7 @@
+```sh
+python src/analyze.py path/to/directory "Describe the image"
+```
+
 <p align="center">
   <img src="assets/image.png" alt="Consume-CogVLM2 Logo" width="500"/>
 </p>
@@ -5,6 +9,14 @@
 # CogVLM2 Autocaptioning Tools
 
 Welcome to this CogVLM2 Autocaptioning Tools repository! This project sets up tools for autocaptioning using the state-of-the-art CogVLM2.
+
+<div align="center">
+<p>
+✅ Chat Mode &emsp;&emsp;&emsp;
+✅ Caption Mode &emsp;&emsp;&emsp;
+✅ FastAPI Application 
+</p>
+</div>
 
 ## Table of Contents
 
