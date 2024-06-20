@@ -4,3 +4,4 @@ einops
 xformers
 accelerate
 bitsandbytes
+fastapi
